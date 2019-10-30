@@ -9,7 +9,6 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
-import java.net.URI;
 
 public class InfoActivity extends AppCompatActivity {
 

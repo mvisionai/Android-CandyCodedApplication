@@ -4,4 +4,5 @@
     <string name="address">618 E South St Orlando, FL</string>
     <string name="phone_no">(012)345-6789</string>
     <string name="open_hours">Everyday 10am-10pm</string>
+    <string name="default_string">TextView</string>
 </resources>
