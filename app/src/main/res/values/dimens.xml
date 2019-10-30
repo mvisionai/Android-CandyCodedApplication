@@ -2,4 +2,9 @@
 <resources>
     <dimen name="title_size">24sp</dimen>
     <dimen name="activity_padding">16dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_margin_half">8dp</dimen>
+    <dimen name="activity_txt_size">18sp</dimen>
+    <dimen name="activity_txt_big">24sp</dimen>
+    <dimen name="activity_layout_height">30dp</dimen>
 </resources>
